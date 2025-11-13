@@ -16,7 +16,6 @@ Un sistema de reconocimiento de lenguaje de señas en tiempo real utilizando vis
   - [Ejecución en Tiempo Real](#ejecución-en-tiempo-real)
 - [Características del Sistema](#características-del-sistema)
 - [Resultados](#resultados)
-- [Contribuir](#contribuir)
 - [Licencia](#licencia)
 
 ## Descripción
