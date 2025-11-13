@@ -201,6 +201,7 @@ python sign_language_recognition.py
    - Se abrirá una ventana mostrando el video de tu cámara web
    - Realiza gestos de lenguaje de señas frente a la cámara
    - El sistema detectará y clasificará las letras automáticamente
+   - Presiona 'q' para salir
 
 
 ## Características del Sistema

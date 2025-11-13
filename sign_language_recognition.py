@@ -6,7 +6,7 @@ from ultralytics import YOLO
 import time
 import cv2
 
-model = YOLO("runs/detect/train2/weights/best.pt")
+model = YOLO("runs/detect/train3/weights/best.pt")
 results = model.predict(source=0, stream=True)
 
 letras_reconocidas = []
